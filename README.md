@@ -1,2 +1,2 @@
 # Java-Study
-task js study
+task java study
